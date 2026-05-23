@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" alt="Banner Bruno Moura" width="100%">
+  <img src="banner.png" alt="Banner Bruno Moura" width="100%">
 </p>
 # 👨🏾‍💻 Bruno Moura
 
